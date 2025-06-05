@@ -1,4 +1,4 @@
-#RateLimiter
+# RateLimiter
 
 A lightweight, single-module C# project that provides rate-limiting capabilities per user or client.
 
