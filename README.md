@@ -10,6 +10,7 @@ Tracks individual user request history
 Easy to integrate into web/API logic
 
 📌 Applications:
+
 API request throttling
 
 Login attempt control
